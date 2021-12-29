@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IreneJ9856
-- 👀 I’m interested in C and Python
-- 🌱 I’m currently learning C and Python
+- 👀 I’m interested in C, C++ and Python
+- 🌱 I’m currently learning C, C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
