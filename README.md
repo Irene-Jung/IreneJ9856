@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Irene%20Jung&fontSize=80)
 
-<p aligin="center">
+<div aligin="center">
   
   ## ✨Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irene-Jung&show_icons=true)
@@ -15,4 +15,4 @@
   
   ## Contact
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dms05062@gmail.com)](mailto:dms05062@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akira_irene56/)](https://www.instagram.com/akira_irene56/) 
-</p>
+</div>
